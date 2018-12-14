@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="lorem">Lorem ipsum dolor sit amet</string>
+    <string name="landscapeMode">Your phone lies on the side!</string>
+</resources>
